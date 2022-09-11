@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0168a95-34f1-42c1-bc04-913593398cb5" name="Changes" comment="">
+    <list default="true" id="c0168a95-34f1-42c1-bc04-913593398cb5" name="Changes" comment="More Finishing Up Shapes">
+      <change afterPath="$PROJECT_DIR$/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Circle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Circle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquilateralTriangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/EquilateralTriangle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Triangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -61,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="More Finishing Up Shapes" />
+    <option name="LAST_COMMIT_MESSAGE" value="More Finishing Up Shapes" />
   </component>
 </project>
