@@ -1,4 +1,4 @@
-abstract class Square (_name:String): Shape(_name) {
+abstract open class Square (_name:String): Shape(_name) {
     val height = 5.0;
     val length = 10.0;
 

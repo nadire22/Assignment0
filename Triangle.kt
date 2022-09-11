@@ -1,4 +1,4 @@
-abstract class Triangle (_name:String): Shape(_name) {
+abstract open class Triangle (_name:String): Shape(_name) {
 
 
     //height of the triangle

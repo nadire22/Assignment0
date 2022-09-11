@@ -1,6 +1,6 @@
 import kotlin.math.sqrt
 
-abstract class EquilateralTriangle(_name:String): Triangle(_name) {
+abstract open class EquilateralTriangle(_name:String): Triangle(_name) {
     val side = 5.0;
     val y = (sqrt(3.0) / 4.0)
 
