@@ -4,7 +4,7 @@ abstract class Circle (_name:String): Shape(_name) {
 
     var CircleArea = 0.0;
 
-
+//test
     open override fun getArea(): Double {
         CircleArea = (radius * radius) * pi;
         return getArea()
