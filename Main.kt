@@ -1,5 +1,7 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+println("The Shapes and its Areas")
 
-    ("Program arguments: ${args.joinToString()}")
+
+    
 }
+
